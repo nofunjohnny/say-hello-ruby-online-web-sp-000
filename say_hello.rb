@@ -2,3 +2,5 @@
 def say_hello(name)
   puts "Hello John"
 end
+
+say_hello("John Zapata")
