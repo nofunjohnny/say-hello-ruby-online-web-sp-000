@@ -3,5 +3,3 @@ def say_hello(name)
   puts "Hello John"
   name = "John Zapata"
 end
-
-
